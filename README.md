@@ -16,9 +16,10 @@ c. python結合GIS<br>
 &nbsp;&nbsp;● pyproj<br> 
 &nbsp;&nbsp;● gdal<br>
 &nbsp;&nbsp;● arcpy<br>
-  
-d. text-mining (文本分析)<br>
+ 
+ 
 d. 基本影像處理 Matlab<br>
+d. text-mining (文本分析)<br>
 
 e. machine learning<br>
 &nbsp;&nbsp;● DBSCAN algorithm 修改&應用<br>
