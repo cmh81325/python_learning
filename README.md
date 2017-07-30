@@ -18,7 +18,7 @@ c. python結合GIS<br>
 &nbsp;&nbsp;● arcpy<br>
  
  
-d. 基本影像處理 Matlab<br>
+d. Matplotlib的基本影像處理<br>
 d. text-mining (文本分析)<br>
 
 e. machine learning<br>
