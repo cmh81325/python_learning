@@ -18,10 +18,11 @@ c. python結合GIS<br>
 &nbsp;&nbsp;● arcpy<br>
   
 d. text-mining (文本分析)<br>
+d. 基本影像處理 Matlab<br>
 
 e. machine learning<br>
 &nbsp;&nbsp;● DBSCAN algorithm 修改&應用<br>
-&nbsp;&nbsp;● Scikit-learn:Clustering<br>
+&nbsp;&nbsp;● Scikit-learn:Clustering (更新中)<br>
 &nbsp;&nbsp;● Supervised-KNN <br>
 &nbsp;&nbsp;● Apriori (更新中)<br>
 &nbsp;&nbsp;● Naive Bayes (更新中)<br>
