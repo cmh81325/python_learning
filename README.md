@@ -7,7 +7,7 @@ a. API 資料擷取<br>
 &nbsp;&nbsp;● Instagram Places<br>
 &nbsp;&nbsp;● Flickr photo search<br>
  
-b. Web-crawler:<br>
+b. Web-crawler<br>
 &nbsp;&nbsp;● Selenium<br>
 &nbsp;&nbsp;● urllib2<br>
 &nbsp;&nbsp;● BeautifulSoup<br>
