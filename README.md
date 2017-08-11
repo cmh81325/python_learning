@@ -1,6 +1,6 @@
 # Python 
 
-MingHsun的學習、應用、實作紀錄，主要使用語言為python。(持續更新中)
+MingHsun的Python學習、應用、實作紀錄。(持續更新中)
 
 a. API 資料擷取<br>
 &nbsp;&nbsp;● Facebook Places <br>
