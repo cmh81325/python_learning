@@ -1,4 +1,4 @@
-# learning
+# Python 
 
 MingHsun的學習、應用、實作紀錄，主要使用語言為python。(持續更新中)
 
