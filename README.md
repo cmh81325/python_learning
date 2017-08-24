@@ -3,9 +3,9 @@
 MingHsun的Python學習、應用、實作紀錄。(持續更新中)
 
 a. API 資料擷取<br>
-&nbsp;&nbsp;● Facebook Places <br>
-&nbsp;&nbsp;● Instagram Places<br>
-&nbsp;&nbsp;● Flickr photo search<br>
+&nbsp;&nbsp;● Facebook Graph API&Place Search <br>
+&nbsp;&nbsp;● Flickr data capture (API)<br>
+&nbsp;&nbsp;● Instagram Location API<br>
  
 b. Web-crawler<br>
 &nbsp;&nbsp;● Selenium<br>
@@ -26,8 +26,6 @@ e. machine learning<br>
 &nbsp;&nbsp;● Scikit-learn:Clustering (更新中)<br>
 &nbsp;&nbsp;● Supervised-KNN <br>
 &nbsp;&nbsp;● Apriori (更新中)<br>
-&nbsp;&nbsp;● Naive Bayes (更新中)<br>
-&nbsp;&nbsp;● PageRank (更新中)<br>
 
 f. 應用<br>
 &nbsp;&nbsp;● 瀏覽器使用紀錄分析<br>
